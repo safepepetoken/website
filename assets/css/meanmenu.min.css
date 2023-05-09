@@ -1,3 +1,6 @@
+.header-logo img{
+  max-width: 200px;
+}
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
     background: #000;
