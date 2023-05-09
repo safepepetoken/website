@@ -1,5 +1,6 @@
 .header-logo img{
-  max-width: 200px;
+  max-width: 300px;
+  margin-top: 5px;
 }
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
