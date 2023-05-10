@@ -468,6 +468,13 @@ svg {
 
 /* small mobile :320px. */
 @media only screen and (min-width: 320px) and (max-width: 599px) {
+    .single-features-box.two .feature-thumb{
+        right: 5px;
+    }
+    .feature-title h4{
+        padding-top: 45px;
+        padding-left: 25px;
+    }
 .why-choose-us-thumb{
     margin-top: 50px;
 }
@@ -602,6 +609,7 @@ dt.skill-name {
 }
 .single-feature-box {
     margin-right: 39px;
+    padding-bottom: 25px;
 }
 .feature-title p {
     font-size: 10px;
@@ -610,7 +618,8 @@ dt.skill-name {
     padding: 0px 15px 70px;
 }
 .single-features-box {
-    margin-left: 19px;
+    margin-left: 25px;
+    padding-bottom: 25px;
 }
 .shap_img {
     display: none;

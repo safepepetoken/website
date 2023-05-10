@@ -953,6 +953,7 @@ span.dash::before {
     color: #fff;
     text-align: right;
     margin: 0 0 6px;
+    padding-top: 45px;
 }
 .feature-title p {
     font-size: 16px;
