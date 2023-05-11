@@ -669,6 +669,7 @@
     transition: .5s;
     line-height: 1.5;
     z-index: 1;
+    min-height: 400px;
 }
 .single-service-box::before {
     position: absolute;

@@ -478,7 +478,9 @@ svg {
 .why-choose-us-thumb{
     margin-top: 50px;
 }
-
+.single-service-box{
+    min-height: auto;
+}
 .single-service-box::before{
     display: none;
 } 
