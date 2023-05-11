@@ -669,6 +669,7 @@ dt.skill-name {
 }
 .team-thumb img{
     width: 90%;
+    height: 200px;
 }
 .team-thumb{
     text-align: center;
@@ -691,6 +692,7 @@ dt.skill-name {
 }
 .team-title {
     padding: 12px 0 5px;
+    top: auto;
 }
 .faq-title h3 {
     font-size: 22px;
