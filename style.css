@@ -2024,7 +2024,7 @@ span.dash::before {
     background: #000616!important;
     z-index: 9999 !important;
     animation-name: slideInDown;
-    padding: 0 150px 11px;
+    padding: 0 188px 11px;
 }
 .owl-carousel .owl-item img{
     max-width: 100%;
